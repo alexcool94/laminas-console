@@ -26,15 +26,15 @@
     },
     "require": {
         "php": "^8.0",
-        "laminas/laminas-stdlib": "^3.2.1",
-        "laminas/laminas-zendframework-bridge": "^1.0"
+        "laminas/laminas-stdlib": "^3.3",
+        "laminas/laminas-zendframework-bridge": "^1.2"
     },
     "require-dev": {
         "laminas/laminas-coding-standard": "~1.0.0",
-        "laminas/laminas-filter": "^2.7.2",
-        "laminas/laminas-json": "^3.0",
-        "laminas/laminas-validator": "^2.10.1",
-        "phpunit/phpunit": "^9.3"
+        "laminas/laminas-filter": "^2.11",
+        "laminas/laminas-json": "^3.2",
+        "laminas/laminas-validator": "^2.14",
+        "phpunit/phpunit": "^9.5"
     },
     "suggest": {
         "laminas/laminas-filter": "To support DefaultRouteMatcher usage",
